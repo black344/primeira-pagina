@@ -1,0 +1,34 @@
+<html>
+<meta charset=utf-8>
+<head>
+<title>rrds</title>
+<style>
+ html {background-color:#ffffff}
+ header{background-color:#D2691E; min-height: 130px;}
+ #titulo {float: left; margin-left: 20px; font-size: 50px;}
+ #navabre{float: right}
+
+</style>
+</head>
+<body>
+<header id="header">
+    <h1 id="titulo">rrds</h1>
+    <nav id="navabre">
+    <ul>
+     <li><a href="http://black344.github.io/primeira-pagina/" target="_blank">primeira pagina</a></li>
+     <li><a href="http://black344.github.io/cobra-kai/"target="_blank">cobra kai</a></li>
+     <li><a href="http://black344.github.io/egamora-344/"target="_blank">egamora344</a></li>
+     <li><a href="http://black344.github.io/eleicao-2022/"target="_blank">eleicao2022</a></li>
+    </ul>
+    </nav>
+</header>
+<main>
+<img  src="Link para foto pra o site cobra kai"height="35%"width="35%"></>> 
+</main>
+<footer>
+    esse site foi criador por Renan Rosélio em 2022 de outubro 
+ na casa dos meninos né um curso de web desenvolvimento e 
+ biblioteca ne uma segunda-feira dublada as 17:20
+</footer>
+</body>
+</html>
