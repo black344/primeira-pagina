@@ -1,0 +1,97 @@
+/* Estilos principais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFCC80; /* Cor laranja claro */
+    color: #333;
+}
+
+header {
+    background-color: #FF9800; /* Cor laranja mais forte */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    font-size: 2.5em;
+}
+
+.content {
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #FF5722; /* Cor laranja escuro */
+    margin-top: 20px;
+    font-size: 1.8em;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #FF9800;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    color: white;
+    font-size: 0.9em;
+}
+ <title>Menu Social</title>
+
+    <!-- Link para os ícones do Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+
+        nav {
+            background-color: #ee6313;
+            padding: 15px 0;
+            text-align: center;
+        }
+
+        .social-menu {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .social-menu li {
+            display: inline-block;
+            margin: 0 15px;
+        }
+
+        .social-menu a {
+            color: white;
+            text-decoration: none;
+            font-size: 1.5em;
+            transition: color 0.3s;
+        }
+
+        .social-menu a:hover {
+            color: #ff9800; /* Laranja claro ao passar o mouse */
+        }
